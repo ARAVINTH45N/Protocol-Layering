@@ -112,9 +112,7 @@ Example message:
 "Deliver one chicken burger to Hostel Block A"
 ```
 
-This original readable message is called:
-
-# Plaintext
+This original readable message is called Plaintext
 
 ---
 
@@ -133,9 +131,7 @@ Deliver Burger
 A7#K92@LM
 ```
 
-Now the message becomes:
-
-# Ciphertext
+Now the message becomes Ciphertext
 
 This provides:
 - Security
@@ -152,8 +148,7 @@ The encrypted order is:
 - routed using GPS
 - delivered physically
 
-This acts like:
-# Send/Receive Layer
+This acts like Send/Receive Layer
 
 ---
 
@@ -170,15 +165,10 @@ Application verifies payment and decrypts details.
 ## Layer 3
 Customer sees original order details and confirmation.
 
-This reverse process is called:
-
-# Decapsulation
+This reverse process is called Decapsulation
 
 ---
 
-# Three Layer Architecture
-
-![Three Layer Protocol](images/three_layer_food_delivery.png)
 
 ---
 
@@ -418,5 +408,6 @@ Food delivery applications.
 # Author
 
 ## Aravinth N
+212223060020
 B.E Electronics and Communication Engineering  
 Saveetha Engineering College
