@@ -47,8 +47,6 @@ This is a Single Layer Protocol
 ---
 
 # Single Layer Architecture
-
-<img width="1536" height="1024" alt="gen 2" src="https://github.com/user-attachments/assets/1116e5a2-f5e8-44c1-8e9e-346e61e91d55" />
 <img width="1536" height="1024" alt="gen 1" src="https://github.com/user-attachments/assets/650acca2-8000-4e00-844e-6ac3af1ab4b0" />
 
 
