@@ -79,7 +79,7 @@ This is a Single Layer Protocol
 
 # Three Layer Protocol
 
-<img width="1536" height="1024" alt="gen 3" src="https://github.com/user-attachments/assets/021ed606-6f80-46e2-b3b4-5563d72e6904" />
+
 <img width="1536" height="1024" alt="gen 2" src="https://github.com/user-attachments/assets/a7f026b9-5a26-433d-a286-6e0abe8850a7" />
 
 
