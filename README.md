@@ -295,7 +295,7 @@ using Cisco Packet Tracer.
 
 | Device | Quantity |
 |---|---|
-| PC | 1 |
+| PC | 2 |
 | Switch | 1 |
 | Server | 1 |
 
